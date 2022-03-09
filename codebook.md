@@ -1,4 +1,3 @@
-<title>Code book</title>
 <h1 align = "center">Data Dictionary</h1>
 
 #### 1. Subject
